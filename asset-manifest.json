@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.1d83d9af.css",
+    "main.js": "/Personal-Portfolio/static/js/main.78762e92.js",
+    "static/media/codingfst.png": "/Personal-Portfolio/static/media/codingfst.51583a602ef7cade9c85.png",
+    "static/media/codesthinker.png": "/Personal-Portfolio/static/media/codesthinker.0615f1408af29e0353a0.png",
+    "static/media/forever.png": "/Personal-Portfolio/static/media/forever.4ca8c53c31b356ae1b3e.png",
+    "static/media/wali1.png": "/Personal-Portfolio/static/media/wali1.5f19d260e95c40f3448f.png",
+    "static/media/bannerImg.png": "/Personal-Portfolio/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
+    "static/media/contactImg.png": "/Personal-Portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/Personal-Portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/testimonialTwo.png": "/Personal-Portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/ma2.svg": "/Personal-Portfolio/static/media/ma2.f085a03e8b915dd54d2eaae0a92fa849.svg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.1d83d9af.css.map": "/Personal-Portfolio/static/css/main.1d83d9af.css.map",
+    "main.78762e92.js.map": "/Personal-Portfolio/static/js/main.78762e92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d83d9af.css",
+    "static/js/main.78762e92.js"
+  ]
+}
